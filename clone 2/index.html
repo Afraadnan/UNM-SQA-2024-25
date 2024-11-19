@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTubeClone101</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h1>CStube</h1>
+        <p> Explore AI tools and technologies that will make you an A* Software Engineer!</p>
+
+        <div class="search-bar-container">
+            <input type="text" id="search-input" placeholder="browse...">
+            <button id="search-button">Search</button>
+        </div>
+        <div class="keywords">
+            <button class="keyword-btn" data-keyword="AI DevOps Tools">AI DevOps Tools</button>
+            <button class="keyword-btn" data-keyword="AI Code Completion">AI Code Completion</button>
+            <button class="keyword-btn" data-keyword="Machine Learning">Machine Learning</button>
+            <button class="keyword-btn" data-keyword="Coding Assistant AI">Coding Assistant AI</button>
+            <button class="keyword-btn" data-keyword="Software Testing">Software Testing 101</button>
+        </div>
+
+        <div class="add-keyword">
+            <input type="text" id="newKeyword" placeholder="Add new keyword">
+            <button id="addKeywordButton">Add</button>
+        </div>
+    </header>
+
+    <select id="sortOptions">
+        <option value="">Default</option>
+        <option value="date">Upload Date</option>
+        <option value="relevance">Relevance</option>
+        <option value="rating">Rating</option>
+        <option value="duration">Duration</option>
+    </select>
+    
+    <main>
+        <section class="video-grid" id="video-grid">
+           
+        </section>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
