@@ -8,7 +8,7 @@ const keywordContainer = document.querySelector('.keywords');
 const sortOptions = document.getElementById('sortOptions');
 
 // YouTube API key
-const API_KEY = 'AIzaSyDN-T0QfzzQtTABG9xbBjNpPjd1JDL1XE0';
+const API_KEY = 'AIzaSyBMrj8tLPrT-0b7q17sCsZ3aAOQ1Kq2gx8';
 const SEARCH_URL = 'https://www.googleapis.com/youtube/v3/search';
 const VIDEO_URL = 'https://www.googleapis.com/youtube/v3/videos';
 
