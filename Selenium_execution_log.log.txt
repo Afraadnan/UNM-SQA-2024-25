@@ -1,0 +1,213 @@
+2024-11-27 13:28:00,229 - INFO - Test for Requirement1 started.
+2024-11-27 13:28:00,230 - INFO - Starting WebDriver.
+2024-11-27 13:28:02,433 - INFO - WebDriver initialized.
+2024-11-27 13:28:02,611 - INFO - Navigated to SQATube webpage.
+2024-11-27 13:28:02,624 - INFO - Found button with keyword "AI DevOps Tools".
+2024-11-27 13:28:07,694 - INFO - Clicked on the button.
+2024-11-27 13:28:12,696 - INFO - Starting scroll action.
+2024-11-27 13:28:16,795 - INFO - Scrolled by 50px.
+2024-11-27 13:28:16,903 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,012 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,118 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,227 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,335 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,443 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,549 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,657 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,765 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,873 - INFO - Scrolled by 50px.
+2024-11-27 13:28:17,980 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,087 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,194 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,303 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,414 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,520 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,628 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,734 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,838 - INFO - Scrolled by 50px.
+2024-11-27 13:28:18,945 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,050 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,156 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,261 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,366 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,471 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,578 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,683 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,790 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,894 - INFO - Scrolled by 50px.
+2024-11-27 13:28:19,998 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,103 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,210 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,313 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,418 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,524 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,630 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,735 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,840 - INFO - Scrolled by 50px.
+2024-11-27 13:28:20,945 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,050 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,155 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,260 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,366 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,473 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,577 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,683 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,790 - INFO - Scrolled by 50px.
+2024-11-27 13:28:21,894 - INFO - Scrolled by 50px.
+2024-11-27 13:28:22,000 - INFO - Scrolled by 50px.
+2024-11-27 13:28:22,040 - INFO - Opened YouTube in a new tab.
+2024-11-27 13:28:24,366 - INFO - Switched to YouTube tab.
+2024-11-27 13:28:24,710 - INFO - Found search input field on YouTube.
+2024-11-27 13:28:30,482 - INFO - Found search button on YouTube.
+2024-11-27 13:28:35,558 - INFO - Starting scrolling on YouTube.
+2024-11-27 13:28:45,927 - INFO - Scrolled down YouTube search results.
+2024-11-27 13:28:45,933 - INFO - Current page title: AI DevOps Tools - YouTube
+2024-11-27 13:28:48,223 - INFO - WebDriver closed, test completed.
+
+2024-11-27 13:28:53,541 - INFO - Test For Requirement2 started.
+2024-11-27 13:28:54,768 - INFO - WebDriver initialized.
+2024-11-27 13:28:54,884 - INFO - Navigated to the webpage.
+2024-11-27 13:28:59,885 - INFO - Starting scrolling action.
+2024-11-27 13:28:59,996 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,104 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,211 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,319 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,427 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,534 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,642 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,750 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,859 - INFO - Scrolled by 100px.
+2024-11-27 13:29:00,968 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,076 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,183 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,291 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,398 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,506 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,613 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,720 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,827 - INFO - Scrolled by 100px.
+2024-11-27 13:29:01,937 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,044 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,153 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,262 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,369 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,478 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,585 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,696 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,802 - INFO - Scrolled by 100px.
+2024-11-27 13:29:02,913 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,026 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,134 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,243 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,349 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,457 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,563 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,668 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,776 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,882 - INFO - Scrolled by 100px.
+2024-11-27 13:29:03,989 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,094 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,201 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,311 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,416 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,525 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,631 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,739 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,846 - INFO - Scrolled by 100px.
+2024-11-27 13:29:04,955 - INFO - Scrolled by 100px.
+2024-11-27 13:29:05,062 - INFO - Scrolled by 100px.
+2024-11-27 13:29:05,168 - INFO - Scrolled by 100px.
+2024-11-27 13:29:05,277 - INFO - Scrolled by 100px.
+2024-11-27 13:29:05,277 - INFO - Scrolling completed.
+2024-11-27 13:29:07,656 - INFO - WebDriver closed, test completed.
+
+2024-11-27 13:29:13,571 - INFO - Test for Requirement3 started.
+2024-11-27 13:29:13,572 - INFO - Starting WebDriver.
+2024-11-27 13:29:14,864 - INFO - WebDriver initialized.
+2024-11-27 13:29:14,931 - INFO - Navigated to SQATube webpage.
+2024-11-27 13:29:15,579 - INFO - Found iframe containing video.
+2024-11-27 13:29:21,861 - INFO - Switched to iframe.
+2024-11-27 13:29:21,905 - INFO - Found the video player element.
+2024-11-27 13:29:22,107 - INFO - Clicked on the video player to start playback.
+2024-11-27 13:29:31,423 - INFO - WebDriver closed, test completed.
+
+2024-11-27 13:29:42,910 - INFO - Test for Requirement4 started.
+2024-11-27 13:29:42,910 - INFO - Starting WebDriver.
+2024-11-27 13:29:44,225 - INFO - WebDriver initialized.
+2024-11-27 13:29:44,321 - INFO - Navigated to SQATube webpage.
+2024-11-27 13:29:44,850 - INFO - Found iframe containing video.
+2024-11-27 13:29:45,428 - INFO - Switched to iframe.
+2024-11-27 13:29:49,028 - INFO - Found the video player element.
+2024-11-27 13:29:51,856 - INFO - Clicked on the video player to start playback.
+2024-11-27 13:29:58,869 - INFO - Found fullscreen button.
+2024-11-27 13:29:58,952 - INFO - Clicked fullscreen button.
+2024-11-27 13:30:03,963 - INFO - Found play button.
+2024-11-27 13:30:04,026 - INFO - Clicked play button to pause the video.
+2024-11-27 13:30:09,071 - INFO - Clicked play button again to play the video.
+2024-11-27 13:30:14,181 - INFO - Pressed right arrow key to seek forward.
+2024-11-27 13:30:19,212 - INFO - Pressed left arrow key to seek backward.
+2024-11-27 13:30:28,523 - INFO - WebDriver closed, test completed.
+
+2024-11-27 13:38:28,740 - INFO - Test for Requirement5 started.
+2024-11-27 13:38:28,740 - INFO - Starting WebDriver.
+2024-11-27 13:38:32,670 - INFO - WebDriver initialized.
+2024-11-27 13:38:32,866 - INFO - Navigated to SQATube webpage.
+2024-11-27 13:38:37,868 - INFO - Starting scroll down actions.
+2024-11-27 13:38:52,630 - INFO - Starting scroll up actions.
+2024-11-27 13:38:57,990 - INFO - Clicking on the first keyword button.
+2024-11-27 13:39:00,029 - INFO - Scrolling down after clicking the first keyword button.
+2024-11-27 13:39:11,556 - INFO - Scrolling up after clicking the first keyword button.
+2024-11-27 13:39:16,870 - INFO - Clicking on the fourth keyword button.
+2024-11-27 13:39:18,898 - INFO - Scrolling down after clicking the fourth keyword button.
+2024-11-27 13:39:28,861 - INFO - Scrolling up after clicking the fourth keyword button.
+2024-11-27 13:39:38,541 - INFO - WebDriver closed, test completed.
+
+2024-11-29 16:22:50,135 - INFO - Test for Requirement6 started.
+2024-11-29 16:22:50,135 - INFO - Starting WebDriver.
+2024-11-29 16:22:51,583 - INFO - WebDriver initialized.
+2024-11-29 16:22:51,687 - INFO - Navigated to SQATube webpage.
+2024-11-29 16:22:56,688 - INFO - Starting scroll down actions.
+2024-11-29 16:23:02,770 - INFO - Starting scroll up actions.
+2024-11-29 16:23:08,105 - INFO - Scrolling completed.
+2024-11-29 16:23:08,105 - INFO - Entering search term: travel.
+2024-11-29 16:23:08,173 - INFO - Clicking search button.
+2024-11-29 16:23:13,208 - INFO - Search executed.
+2024-11-29 16:23:13,208 - INFO - Clean former keyword
+2024-11-29 16:23:18,237 - INFO - Entering search term: AI.
+2024-11-29 16:23:18,273 - INFO - Clicking search button.
+2024-11-29 16:23:23,293 - INFO - Search executed.
+2024-11-29 16:23:25,593 - INFO - WebDriver closed, test completed.
+
+
+2024-11-27 13:42:48,280 - INFO - Test for Requirement7 started.
+2024-11-27 13:42:48,280 - INFO - Starting WebDriver.
+2024-11-27 13:42:50,140 - INFO - WebDriver initialized.
+2024-11-27 13:42:50,286 - INFO - Navigated to SQATube webpage.
+2024-11-27 13:42:59,092 - INFO - Found "newKeyword" input field.
+2024-11-27 13:42:59,197 - INFO - Entered "Best AI coding Tools" in the newKeyword input field.
+2024-11-27 13:43:04,207 - INFO - Found "Add Keyword" button.
+2024-11-27 13:43:04,236 - INFO - Clicked the "Add Keyword" button.
+2024-11-27 13:43:07,248 - INFO - Found and clicking the 6th keyword button.
+2024-11-27 13:43:12,273 - INFO - Starting scroll down actions.
+2024-11-27 13:43:17,955 - INFO - Starting scroll up actions.
+2024-11-27 13:43:23,292 - INFO - Scrolling completed.
+2024-11-27 13:43:25,572 - INFO - WebDriver closed, test completed.
+
+2024-11-27 13:50:48,875 - INFO - Test for Requirement8 started.
+2024-11-27 13:50:48,875 - INFO - Starting WebDriver.
+2024-11-27 13:50:50,181 - INFO - WebDriver initialized.
+2024-11-27 13:50:50,274 - INFO - Navigated to SQATube webpage.
+2024-11-27 13:50:55,303 - INFO - Found sorting dropdown element.
+2024-11-27 13:50:55,394 - INFO - Selected "date" option from sorting dropdown.
+2024-11-27 13:50:58,394 - INFO - Starting scroll down actions for "date" option.
+2024-11-27 13:51:10,723 - INFO - Scrolling completed for "date" option.
+2024-11-27 13:51:10,758 - INFO - Selected "relevance" option from sorting dropdown.
+2024-11-27 13:51:13,758 - INFO - Starting scroll down actions for "relevance" option.
+2024-11-27 13:51:25,804 - INFO - Scrolling completed for "relevance" option.
+2024-11-27 13:51:25,836 - INFO - Selected "rating" option from sorting dropdown.
+2024-11-27 13:51:28,836 - INFO - Starting scroll down actions for "rating" option.
+2024-11-27 13:51:40,784 - INFO - Scrolling completed for "rating" option.
+2024-11-27 13:51:40,819 - INFO - Selected "duration" option from sorting dropdown.
+2024-11-27 13:51:43,819 - INFO - Starting scroll down actions for "duration" option.
+2024-11-27 13:51:56,470 - INFO - Scrolling completed for "duration" option.
+2024-11-27 13:51:58,836 - INFO - WebDriver closed, test completed.
