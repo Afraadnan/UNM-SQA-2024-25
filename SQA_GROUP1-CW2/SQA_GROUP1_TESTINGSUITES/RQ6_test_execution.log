@@ -1,0 +1,50 @@
+2024-12-11 06:46:15,543 - INFO - Test for Requirement6 started.
+2024-12-11 06:46:16,786 - INFO - WebDriver initialized.
+2024-12-11 06:46:17,035 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:46:22,035 - INFO - Starting scroll down actions.
+2024-12-11 06:46:27,420 - INFO - Current scroll position after scrolling down: 1297.5999755859375
+2024-12-11 06:46:27,420 - INFO - Starting scroll up actions.
+2024-12-11 06:46:32,786 - INFO - Current scroll position after scrolling up: 0
+2024-12-11 06:46:32,786 - INFO - Scrolling completed.
+2024-12-11 06:46:37,176 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:46:42,177 - INFO - Entering search term: travel.
+2024-12-11 06:46:45,320 - INFO - Clicking search button.
+2024-12-11 06:46:50,393 - INFO - Validating search results for "travel".
+2024-12-11 06:46:50,393 - INFO - Clearing search field.
+2024-12-11 06:46:55,441 - INFO - Entering search term: AI.
+2024-12-11 06:46:58,516 - INFO - Clicking search button for "AI".
+2024-12-11 06:47:02,154 - INFO - WebDriver closed, test completed.
+2024-12-11 06:47:41,237 - INFO - Test for Requirement6 started.
+2024-12-11 06:47:42,434 - INFO - WebDriver initialized.
+2024-12-11 06:47:42,619 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:47:47,621 - INFO - Starting scroll down actions.
+2024-12-11 06:47:53,009 - INFO - Current scroll position after scrolling down: 1297.5999755859375
+2024-12-11 06:47:53,009 - INFO - Starting scroll up actions.
+2024-12-11 06:47:58,375 - INFO - Current scroll position after scrolling up: 0
+2024-12-11 06:47:58,375 - INFO - Scrolling completed.
+2024-12-11 06:48:02,729 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:48:07,730 - INFO - Entering search term: travel.
+2024-12-11 06:48:10,885 - INFO - Clicking search button.
+2024-12-11 06:48:15,953 - INFO - Validating search results for "travel".
+2024-12-11 06:48:15,953 - INFO - Clearing search field.
+2024-12-11 06:48:21,000 - INFO - Entering search term: AI.
+2024-12-11 06:48:24,069 - INFO - Clicking search button for "AI".
+2024-12-11 06:48:29,132 - INFO - Validating search results for "AI".
+2024-12-11 06:48:31,619 - INFO - WebDriver closed, test completed.
+2024-12-12 04:47:54,839 - INFO - Test for Requirement6 started.
+2024-12-12 04:47:56,250 - INFO - WebDriver initialized.
+2024-12-12 04:47:56,441 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:48:01,442 - INFO - Starting scroll down actions.
+2024-12-12 04:48:07,023 - INFO - Current scroll position after scrolling down: 922.4000244140625
+2024-12-12 04:48:07,023 - INFO - Starting scroll up actions.
+2024-12-12 04:48:12,633 - INFO - Current scroll position after scrolling up: 0
+2024-12-12 04:48:12,634 - INFO - Scrolling completed.
+2024-12-12 04:48:22,292 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:48:27,296 - INFO - Entering search term: travel.
+2024-12-12 04:48:30,557 - INFO - Clicking search button.
+2024-12-12 04:48:35,689 - INFO - Validating search results for "travel".
+2024-12-12 04:48:35,689 - INFO - Clearing search field.
+2024-12-12 04:48:44,105 - INFO - Entering search term: AI.
+2024-12-12 04:48:47,234 - INFO - Clicking search button for "AI".
+2024-12-12 04:48:52,358 - INFO - Validating search results for "AI".
+2024-12-12 04:48:58,387 - INFO - WebDriver closed, test completed.

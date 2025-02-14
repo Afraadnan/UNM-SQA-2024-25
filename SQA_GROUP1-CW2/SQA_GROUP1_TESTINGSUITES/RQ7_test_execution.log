@@ -1,0 +1,28 @@
+2024-12-11 06:50:51,448 - INFO - Test for Requirement7 started.
+2024-12-11 06:50:52,597 - INFO - WebDriver initialized.
+2024-12-11 06:50:52,749 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:50:55,750 - INFO - Testing adding a new keyword.
+2024-12-11 06:50:55,922 - INFO - Entered "Best AI coding Tools" in the newKeyword input field.
+2024-12-11 06:50:58,004 - INFO - Clicked the "Add Keyword" button.
+2024-12-11 06:51:01,017 - INFO - Verified that the 6th keyword button is present.
+2024-12-11 06:51:01,084 - INFO - Clicked the 6th keyword button.
+2024-12-11 06:51:06,085 - INFO - Testing scroll down actions.
+2024-12-11 06:51:12,780 - INFO - Current scroll position after scrolling down: 934.4000244140625
+2024-12-11 06:51:12,781 - INFO - Testing scroll up actions.
+2024-12-11 06:51:18,212 - INFO - Current scroll position after scrolling up: 0
+2024-12-11 06:51:18,212 - INFO - Test completed successfully.
+2024-12-11 06:51:20,735 - INFO - WebDriver closed, test completed.
+2024-12-12 04:49:05,749 - INFO - Test for Requirement7 started.
+2024-12-12 04:49:07,123 - INFO - WebDriver initialized.
+2024-12-12 04:49:07,364 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:49:10,366 - INFO - Testing adding a new keyword.
+2024-12-12 04:49:10,818 - INFO - Entered "Best AI coding Tools" in the newKeyword input field.
+2024-12-12 04:49:12,957 - INFO - Clicked the "Add Keyword" button.
+2024-12-12 04:49:15,979 - INFO - Verified that the 6th keyword button is present.
+2024-12-12 04:49:16,101 - INFO - Clicked the 6th keyword button.
+2024-12-12 04:49:21,102 - INFO - Testing scroll down actions.
+2024-12-12 04:49:36,384 - INFO - Current scroll position after scrolling down: 934.4000244140625
+2024-12-12 04:49:36,384 - INFO - Testing scroll up actions.
+2024-12-12 04:49:42,048 - INFO - Current scroll position after scrolling up: 0
+2024-12-12 04:49:42,048 - INFO - Test completed successfully.
+2024-12-12 04:49:44,728 - INFO - WebDriver closed, test completed.

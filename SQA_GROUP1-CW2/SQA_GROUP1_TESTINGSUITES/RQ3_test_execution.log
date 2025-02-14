@@ -1,0 +1,18 @@
+2024-12-11 06:25:53,893 - INFO - Test for Requirement3 started.
+2024-12-11 06:25:55,050 - INFO - WebDriver initialized.
+2024-12-11 06:25:55,231 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:25:55,770 - INFO - Found iframe containing video.
+2024-12-11 06:25:55,961 - INFO - Switched to iframe.
+2024-12-11 06:25:59,807 - INFO - Found the video player element.
+2024-12-11 06:26:01,971 - INFO - Clicked on the video player to start playback.
+2024-12-11 06:26:08,979 - INFO - Video playback verified.
+2024-12-11 06:26:11,563 - INFO - WebDriver closed, test completed.
+2024-12-12 04:42:03,187 - INFO - Test for Requirement3 started.
+2024-12-12 04:42:04,576 - INFO - WebDriver initialized.
+2024-12-12 04:42:04,835 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:42:05,550 - INFO - Found iframe containing video.
+2024-12-12 04:42:06,002 - INFO - Switched to iframe.
+2024-12-12 04:42:15,160 - INFO - Found the video player element.
+2024-12-12 04:42:18,430 - INFO - Clicked on the video player to start playback.
+2024-12-12 04:42:25,444 - INFO - Video playback verified.
+2024-12-12 04:42:28,062 - INFO - WebDriver closed, test completed.

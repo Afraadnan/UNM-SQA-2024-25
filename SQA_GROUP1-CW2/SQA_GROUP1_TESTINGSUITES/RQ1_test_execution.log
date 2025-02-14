@@ -1,0 +1,17 @@
+2024-12-12 06:23:21,378 - INFO - Test for Requirement1 started.
+2024-12-12 06:23:21,378 - INFO - Starting WebDriver.
+2024-12-12 06:23:22,530 - INFO - Navigating to SQATube webpage.
+2024-12-12 06:23:22,670 - INFO - Page title verified.
+2024-12-12 06:23:22,908 - INFO - Entered search query: AI DevOps Tools
+2024-12-12 06:23:22,992 - INFO - Clicked search button for "AI DevOps Tools"
+2024-12-12 06:23:23,534 - INFO - Found 12 video items in the grid.
+2024-12-12 06:23:23,534 - INFO - Test passed for SQATube, 12 videos found.
+2024-12-12 06:23:32,543 - INFO - Navigating to YouTube website.
+2024-12-12 06:23:40,507 - INFO - YouTube homepage title verified.
+2024-12-12 06:23:40,714 - INFO - Entered search query: AI DevOps Tools on YouTube.
+2024-12-12 06:23:40,944 - INFO - Searched for "AI DevOps Tools" on YouTube.
+2024-12-12 06:23:41,853 - INFO - Found 1 video items on YouTube.
+2024-12-12 06:23:41,854 - INFO - Test passed for YouTube, 1 videos found.
+2024-12-12 06:23:49,531 - INFO - Closing WebDriver.
+2024-12-12 06:23:52,137 - INFO - WebDriver closed, test completed.
+2024-12-12 06:23:52,137 - INFO - Test execution finished, logging completed.

@@ -1,0 +1,60 @@
+2024-12-11 06:52:00,615 - INFO - Test for Requirement8 started.
+2024-12-11 06:52:01,791 - INFO - WebDriver initialized.
+2024-12-11 06:52:01,942 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:52:04,972 - INFO - Sorting dropdown element found.
+2024-12-11 06:52:04,972 - INFO - Selecting sorting option: date.
+2024-12-11 06:52:09,867 - INFO - Successfully selected option: date.
+2024-12-11 06:52:09,867 - INFO - Starting scroll down actions for "date" option.
+2024-12-11 06:52:15,234 - INFO - Scroll position after scrolling down for "date": 1294.4000244140625.
+2024-12-11 06:52:15,234 - INFO - Starting scroll up actions for "date" option.
+2024-12-11 06:52:20,647 - INFO - Scroll position after scrolling up for "date": 0.
+2024-12-11 06:52:20,648 - INFO - Selecting sorting option: relevance.
+2024-12-11 06:52:24,863 - INFO - Successfully selected option: relevance.
+2024-12-11 06:52:24,863 - INFO - Starting scroll down actions for "relevance" option.
+2024-12-11 06:52:30,273 - INFO - Scroll position after scrolling down for "relevance": 1297.5999755859375.
+2024-12-11 06:52:30,273 - INFO - Starting scroll up actions for "relevance" option.
+2024-12-11 06:52:35,695 - INFO - Scroll position after scrolling up for "relevance": 0.
+2024-12-11 06:52:35,695 - INFO - Selecting sorting option: rating.
+2024-12-11 06:52:39,970 - INFO - Successfully selected option: rating.
+2024-12-11 06:52:39,970 - INFO - Starting scroll down actions for "rating" option.
+2024-12-11 06:52:45,383 - INFO - Scroll position after scrolling down for "rating": 1297.5999755859375.
+2024-12-11 06:52:45,383 - INFO - Starting scroll up actions for "rating" option.
+2024-12-11 06:52:50,820 - INFO - Scroll position after scrolling up for "rating": 0.
+2024-12-11 06:52:50,820 - INFO - Selecting sorting option: duration.
+2024-12-11 06:52:55,155 - INFO - Successfully selected option: duration.
+2024-12-11 06:52:55,155 - INFO - Starting scroll down actions for "duration" option.
+2024-12-11 06:53:00,571 - INFO - Scroll position after scrolling down for "duration": 1264.
+2024-12-11 06:53:00,571 - INFO - Starting scroll up actions for "duration" option.
+2024-12-11 06:53:05,988 - INFO - Scroll position after scrolling up for "duration": 0.
+2024-12-11 06:53:05,988 - INFO - All sorting options tested successfully.
+2024-12-11 06:53:08,551 - INFO - WebDriver closed, test completed.
+2024-12-12 04:51:08,120 - INFO - Test for Requirement8 started.
+2024-12-12 04:51:09,307 - INFO - WebDriver initialized.
+2024-12-12 04:51:09,424 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:51:12,450 - INFO - Sorting dropdown element found.
+2024-12-12 04:51:12,450 - INFO - Selecting sorting option: date.
+2024-12-12 04:51:17,420 - INFO - Successfully selected option: date.
+2024-12-12 04:51:17,420 - INFO - Starting scroll down actions for "date" option.
+2024-12-12 04:51:22,786 - INFO - Scroll position after scrolling down for "date": 919.2000122070312.
+2024-12-12 04:51:22,787 - INFO - Starting scroll up actions for "date" option.
+2024-12-12 04:51:28,125 - INFO - Scroll position after scrolling up for "date": 0.
+2024-12-12 04:51:28,126 - INFO - Selecting sorting option: relevance.
+2024-12-12 04:51:33,551 - INFO - Successfully selected option: relevance.
+2024-12-12 04:51:33,552 - INFO - Starting scroll down actions for "relevance" option.
+2024-12-12 04:51:38,910 - INFO - Scroll position after scrolling down for "relevance": 919.2000122070312.
+2024-12-12 04:51:38,910 - INFO - Starting scroll up actions for "relevance" option.
+2024-12-12 04:51:44,240 - INFO - Scroll position after scrolling up for "relevance": 0.
+2024-12-12 04:51:44,240 - INFO - Selecting sorting option: rating.
+2024-12-12 04:51:49,939 - INFO - Successfully selected option: rating.
+2024-12-12 04:51:49,939 - INFO - Starting scroll down actions for "rating" option.
+2024-12-12 04:51:55,284 - INFO - Scroll position after scrolling down for "rating": 922.4000244140625.
+2024-12-12 04:51:55,284 - INFO - Starting scroll up actions for "rating" option.
+2024-12-12 04:52:00,633 - INFO - Scroll position after scrolling up for "rating": 0.
+2024-12-12 04:52:00,633 - INFO - Selecting sorting option: duration.
+2024-12-12 04:52:08,024 - INFO - Successfully selected option: duration.
+2024-12-12 04:52:08,024 - INFO - Starting scroll down actions for "duration" option.
+2024-12-12 04:52:13,391 - INFO - Scroll position after scrolling down for "duration": 888.7999877929688.
+2024-12-12 04:52:13,391 - INFO - Starting scroll up actions for "duration" option.
+2024-12-12 04:52:18,761 - INFO - Scroll position after scrolling up for "duration": 0.
+2024-12-12 04:52:18,761 - INFO - All sorting options tested successfully.
+2024-12-12 04:52:21,142 - INFO - WebDriver closed, test completed.

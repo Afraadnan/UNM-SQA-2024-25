@@ -1,0 +1,67 @@
+2024-12-11 06:26:28,143 - INFO - Test for Requirement4 started.
+2024-12-11 06:26:29,303 - INFO - WebDriver initialized.
+2024-12-11 06:26:31,581 - INFO - WebDriver closed, test completed.
+2024-12-11 06:27:28,740 - INFO - Test for Requirement4 started.
+2024-12-11 06:27:29,941 - INFO - WebDriver initialized.
+2024-12-11 06:27:30,042 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:27:39,111 - INFO - Test for Requirement4 started.
+2024-12-11 06:27:40,254 - INFO - WebDriver initialized.
+2024-12-11 06:27:40,378 - INFO - Navigated to SQATube webpage.
+2024-12-11 06:27:40,900 - INFO - Found iframe containing video.
+2024-12-11 06:27:41,086 - INFO - Switched to iframe.
+2024-12-11 06:27:44,749 - INFO - Found video player element.
+2024-12-11 06:27:46,808 - INFO - Clicked on the video player to start playback.
+2024-12-11 06:27:53,815 - INFO - Video playback verified.
+2024-12-11 06:27:53,827 - INFO - Found fullscreen button.
+2024-12-11 06:27:53,994 - INFO - Clicked fullscreen button.
+2024-12-11 06:27:59,009 - INFO - Found play button.
+2024-12-11 06:27:59,111 - INFO - Clicked play button to pause the video.
+2024-12-11 06:28:04,123 - INFO - Video paused verified.
+2024-12-11 06:28:04,226 - INFO - Clicked play button again to resume video playback.
+2024-12-11 06:28:09,234 - INFO - Video resumed playback verified.
+2024-12-11 06:28:09,296 - INFO - Pressed right arrow key to seek forward.
+2024-12-11 06:28:14,314 - INFO - Current time after seeking forward: 26.775217
+2024-12-11 06:28:14,361 - INFO - Pressed left arrow key to seek backward.
+2024-12-11 06:28:19,368 - INFO - Current time after seeking backward: 26.694949
+2024-12-11 06:28:22,008 - INFO - WebDriver closed, test completed.
+2024-12-12 04:44:37,388 - INFO - Test for Requirement4 started.
+2024-12-12 04:44:38,760 - INFO - WebDriver initialized.
+2024-12-12 04:44:39,000 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:44:39,709 - INFO - Found iframe containing video.
+2024-12-12 04:44:40,117 - INFO - Switched to iframe.
+2024-12-12 04:44:46,245 - INFO - Found video player element.
+2024-12-12 04:44:52,287 - INFO - Clicked on the video player to start playback.
+2024-12-12 04:44:59,304 - INFO - Video playback verified.
+2024-12-12 04:44:59,330 - INFO - Found fullscreen button.
+2024-12-12 04:44:59,765 - INFO - Clicked fullscreen button.
+2024-12-12 04:45:04,790 - INFO - Found play button.
+2024-12-12 04:45:05,032 - INFO - Clicked play button to pause the video.
+2024-12-12 04:45:10,053 - INFO - Video paused verified.
+2024-12-12 04:45:10,341 - INFO - Clicked play button again to resume video playback.
+2024-12-12 04:45:15,355 - INFO - Video resumed playback verified.
+2024-12-12 04:45:15,510 - INFO - Pressed right arrow key to seek forward.
+2024-12-12 04:45:20,524 - INFO - Current time after seeking forward: 26.608369
+2024-12-12 04:45:20,624 - INFO - Pressed left arrow key to seek backward.
+2024-12-12 04:45:25,640 - INFO - Current time after seeking backward: 26.635592
+2024-12-12 04:45:28,558 - INFO - WebDriver closed, test completed.
+2024-12-12 04:54:24,602 - INFO - Test for Requirement4 started.
+2024-12-12 04:54:25,703 - INFO - WebDriver initialized.
+2024-12-12 04:54:25,818 - INFO - Navigated to SQATube webpage.
+2024-12-12 04:54:26,354 - INFO - Found iframe containing video.
+2024-12-12 04:54:26,507 - INFO - Switched to iframe.
+2024-12-12 04:54:30,954 - INFO - Found video player element.
+2024-12-12 04:54:32,027 - INFO - Clicked on the video player to start playback.
+2024-12-12 04:54:39,035 - INFO - Video playback verified.
+2024-12-12 04:54:39,048 - INFO - Found fullscreen button.
+2024-12-12 04:54:39,316 - INFO - Clicked fullscreen button.
+2024-12-12 04:54:44,331 - INFO - Found play button.
+2024-12-12 04:54:44,446 - INFO - Clicked play button to pause the video.
+2024-12-12 04:54:49,459 - INFO - Video paused verified.
+2024-12-12 04:54:49,554 - INFO - Clicked play button again to resume video playback.
+2024-12-12 04:54:54,564 - INFO - Video resumed playback verified.
+2024-12-12 04:54:54,574 - INFO - Current time before seeking forward: 16.818029
+2024-12-12 04:54:54,585 - INFO - Sought forward by 10 seconds using JavaScript.
+2024-12-12 04:54:59,595 - INFO - Current time after seeking forward: 31.357136
+2024-12-12 04:54:59,607 - INFO - Sought backward by 5 seconds using JavaScript.
+2024-12-12 04:55:04,618 - INFO - Current time after seeking backward: 30.926588
+2024-12-12 04:55:07,206 - INFO - WebDriver closed, test completed.

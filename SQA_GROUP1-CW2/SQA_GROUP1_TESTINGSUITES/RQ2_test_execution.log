@@ -1,0 +1,116 @@
+2024-12-11 06:23:26,807 - INFO - Test For Requirement2 started.
+2024-12-11 06:23:27,990 - INFO - WebDriver initialized.
+2024-12-11 06:23:28,149 - INFO - Navigated to the webpage.
+2024-12-11 06:23:33,150 - INFO - Starting scrolling action.
+2024-12-11 06:23:33,170 - INFO - Initial scroll position: 0
+2024-12-11 06:23:33,278 - INFO - Scrolled by 100px.
+2024-12-11 06:23:33,384 - INFO - Scrolled by 100px.
+2024-12-11 06:23:33,491 - INFO - Scrolled by 100px.
+2024-12-11 06:23:33,598 - INFO - Scrolled by 100px.
+2024-12-11 06:23:33,706 - INFO - Scrolled by 100px.
+2024-12-11 06:23:33,812 - INFO - Scrolled by 100px.
+2024-12-11 06:23:33,920 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,027 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,138 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,245 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,352 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,460 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,567 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,674 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,780 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,889 - INFO - Scrolled by 100px.
+2024-12-11 06:23:34,996 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,104 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,211 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,318 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,424 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,530 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,637 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,744 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,853 - INFO - Scrolled by 100px.
+2024-12-11 06:23:35,959 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,069 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,177 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,286 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,393 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,502 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,610 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,717 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,825 - INFO - Scrolled by 100px.
+2024-12-11 06:23:36,933 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,041 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,148 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,254 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,361 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,471 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,578 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,686 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,793 - INFO - Scrolled by 100px.
+2024-12-11 06:23:37,900 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,007 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,121 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,229 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,337 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,443 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,549 - INFO - Scrolled by 100px.
+2024-12-11 06:23:38,557 - INFO - Final scroll position: 922.4000244140625
+2024-12-11 06:23:38,557 - INFO - Scrolling action verified.
+2024-12-11 06:23:41,126 - INFO - WebDriver closed, test completed.
+2024-12-12 04:41:02,557 - INFO - Test For Requirement2 started.
+2024-12-12 04:41:04,277 - INFO - WebDriver initialized.
+2024-12-12 04:41:04,674 - INFO - Navigated to the webpage.
+2024-12-12 04:41:09,675 - INFO - Starting scrolling action.
+2024-12-12 04:41:09,683 - INFO - Initial scroll position: 0
+2024-12-12 04:41:09,804 - INFO - Scrolled by 100px.
+2024-12-12 04:41:09,915 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,025 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,135 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,245 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,355 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,465 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,574 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,689 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,802 - INFO - Scrolled by 100px.
+2024-12-12 04:41:10,918 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,028 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,141 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,258 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,368 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,479 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,590 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,701 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,811 - INFO - Scrolled by 100px.
+2024-12-12 04:41:11,921 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,032 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,141 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,253 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,364 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,475 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,584 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,696 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,807 - INFO - Scrolled by 100px.
+2024-12-12 04:41:12,918 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,027 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,137 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,247 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,359 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,476 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,588 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,700 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,813 - INFO - Scrolled by 100px.
+2024-12-12 04:41:13,926 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,038 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,151 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,261 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,373 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,485 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,596 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,708 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,821 - INFO - Scrolled by 100px.
+2024-12-12 04:41:14,932 - INFO - Scrolled by 100px.
+2024-12-12 04:41:15,048 - INFO - Scrolled by 100px.
+2024-12-12 04:41:15,164 - INFO - Scrolled by 100px.
+2024-12-12 04:41:15,275 - INFO - Scrolled by 100px.
+2024-12-12 04:41:15,284 - INFO - Final scroll position: 922.4000244140625
+2024-12-12 04:41:15,284 - INFO - Scrolling action verified.
+2024-12-12 04:41:17,672 - INFO - WebDriver closed, test completed.
